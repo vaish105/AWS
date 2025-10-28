@@ -1,4 +1,3 @@
-{"variant":"standard","title":"Creating and Connecting Two VPCs Using VPC Peering (AWS Management Console Lab)","id":"58327"}
 # Creating and Connecting Two VPCs Using VPC Peering  
 *(AWS Management Console - Step-by-step Lab)*  
 
